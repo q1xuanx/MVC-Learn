@@ -2,11 +2,11 @@
 
 This is the small web page about product sale 
 
-<strong>Home page</strong>
-<img width="934" alt="image" src="https://github.com/q1xuanx/MVC-Learn/assets/93658293/ca0bc86b-87c4-44c0-9be3-20f16d769be3">
+#Home page
+<img width="934" alt="Screenshot 2023-08-18 153658" src="https://github.com/q1xuanx/MVC-Learn/assets/93658293/eff7a89e-e842-4d87-a0ab-6594864a1835">
 
-Product List 
-<img width="933" alt="image" src="https://github.com/q1xuanx/MVC-Learn/assets/93658293/e34e268a-fcc4-4c9e-b6e2-2e3f204df998">
+#Product List 
+<img width="933" alt="Screenshot 2023-08-18 153728" src="https://github.com/q1xuanx/MVC-Learn/assets/93658293/c75e2ebf-17cc-4ff9-a83a-910513370251">
 
 just a small simple webpage
 
