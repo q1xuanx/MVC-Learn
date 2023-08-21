@@ -1,6 +1,6 @@
 ﻿using Azure.Messaging;
 using Microsoft.AspNetCore.Mvc;
-using Test.Data;
+using Test.DataAccess.Data;
 using Test.Models;
 
 namespace Test.Controllers
@@ -50,7 +50,7 @@ namespace Test.Controllers
             }
             return View(findId);
         }
-        [HttpPost]
+        [HttpPost,ActionName("Edit")]
         public IActionResult Edit(Category obj)
         {
             if (obj.Name == obj.DisplayOrder.ToString())
